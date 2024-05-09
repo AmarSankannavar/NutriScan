@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">finaltry</string>
+
+    <string name="image_description">Describe the content of the image here</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="navigation_drawrer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawrer_close">Close Navigation Drawer</string>
+
+</resources>
